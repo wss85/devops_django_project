@@ -1,0 +1,11 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+# SQLite
+*.sqlite3
+
+# Migrations
+*/migrations/
